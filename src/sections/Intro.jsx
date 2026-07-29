@@ -17,7 +17,7 @@ function Intro() {
           
           {/* Profile Image - centered and smaller */}
           <div className="relative z-10 w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-10  border-slate-800/90 shadow-lg shadow-slate-800/50">
-            <img src="profile.png" alt="profile" className="w-full h-full object-cover" />
+            <img src="profile.webp" alt="profile" className="w-full h-full object-cover" />
           </div>
         </div>
 

@@ -16,7 +16,7 @@ function Hero() {
               <div className='absolute -inset-2 bg-gradient-to-tr from-cyan-500 to-purple-600 rounded-full blur opacity-60 group-hover:opacity-100 transition duration-1000'></div>
               <div className='relative w-48 h-48 md:w-[320px] lg:w-[400px] md:h-[320px] lg:h-[400px] rounded-full p-1 bg-slate-950'>
                 <img 
-                  src="profile1.png" 
+                  src="profile1.webp" 
                   alt="Satyam Pandey" 
                   className='w-full h-full object-cover rounded-full border-4 border-slate-950' 
                 />
